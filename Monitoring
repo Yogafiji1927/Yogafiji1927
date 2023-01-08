@@ -1,8 +1,8 @@
 Echo "# monitoring controller >> README.MD
-Git init "#tracker
+Git init "#tracker mobile*
 Git add README. Md
 Git comit .m "first commit"
-Git remote add origin http://github.com
+Git remote display 1.10 add origin http://github.com
 Gitu push .u origin master
 Http://github.serverIPadress
    
